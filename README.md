@@ -1,6 +1,6 @@
 # FormZ
 
-A Simple Stand-alone PHP Form Helper
+A Simple Stand-alone PHP Form Helper.
 
 ## Installtion
 
